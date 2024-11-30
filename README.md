@@ -1,4 +1,9 @@
 # SundownStudios-Clone
 Made a clone of sundownstudios.com
-Check Live : https://sundown-studios-clone.netlify.app/
-             https://sundown-studios-clone.vercel.app/
+Original Website : https://www.sundown-studio.com/
+
+Check Live : 
+
+Netlify : https://sundown-studios-clone.netlify.app/
+
+Vercel : https://sundown-studios-clone.vercel.app/
