@@ -49,7 +49,11 @@ sundownstudio-clone/
 
 📸 Screenshots
 
-(Add screenshots here to showcase your UI)
+![Screenshot 2025-06-17 120214](https://github.com/user-attachments/assets/afae9ee6-6054-4cf0-a3e3-5272ad5dad41)
+![Screenshot 2025-06-17 120234](https://github.com/user-attachments/assets/54a1dcf3-b0de-49b1-bfd4-41a5ae75c9c6)
+![Screenshot 2025-06-17 120304](https://github.com/user-attachments/assets/b50e8084-4e10-45f4-bd8b-647d1d6edf57)
+![Screenshot 2025-06-17 120315](https://github.com/user-attachments/assets/3f60d73b-1698-41fa-be89-b6460f6d5934)
+![Screenshot 2025-06-17 120334](https://github.com/user-attachments/assets/c68a72a1-3e88-48d0-a4be-d68307245421)
 
 ⚠️ Disclaimer
 
